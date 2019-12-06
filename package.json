@@ -1,0 +1,25 @@
+{
+  "name": "serverformems2.0",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pg": "^7.14.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Burach0k/serverForMems2.0.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Burach0k/serverForMems2.0/issues"
+  },
+  "homepage": "https://github.com/Burach0k/serverForMems2.0#readme"
+}
